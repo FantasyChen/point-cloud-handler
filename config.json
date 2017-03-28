@@ -1,0 +1,6 @@
+{
+  "start_number": "1489104942.53",
+  "working_directory":"/home/lifan/LIDAR/workspace/bbox/",
+  "camera_K_path": "/home/lifan/camera-lidar-test/calib_cam_to_cam.txt",
+  "camera_lidar_P_path": "/home/lifan/camera-lidar-test/calib_cam_to_range_00.txt"
+}
